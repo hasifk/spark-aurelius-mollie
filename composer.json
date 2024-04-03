@@ -21,7 +21,7 @@
         "firebase/php-jwt": "~4.0|~5.0",
         "intervention/image": "^2.3",
         "mollie/laravel-cashier-mollie": "^1.12",
-        "laravel/ui": "^4.0",
+        "laravel/ui": "*",
         "mpociot/vat-calculator": "^2.4"
     },
     "require-dev": {
