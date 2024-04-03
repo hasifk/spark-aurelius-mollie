@@ -20,13 +20,13 @@
         "erusev/parsedown": "~1.0",
         "firebase/php-jwt": "~4.0|~5.0",
         "intervention/image": "^2.3",
-        "mollie/laravel-cashier-mollie": "^1.12",
-        "laravel/ui": "^4.0",
+        "mollie/laravel-cashier-mollie": "^2.0",
+        "laravel/ui": "^4.0.0",
         "mpociot/vat-calculator": "^2.4"
     },
     "require-dev": {
         "mockery/mockery": "^1.0",
-        "phpunit/phpunit": "^7.0"
+        "phpunit/phpunit": "^11.0"
     },
     "autoload": {
         "psr-4": {
