@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "php": "^7.2|^8.0",
+        "php": "^8.3",
         "ext-json": "*",
         "ext-zip": "*",
         "erusev/parsedown": "~1.0",
